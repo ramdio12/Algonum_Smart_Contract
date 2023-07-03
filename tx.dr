@@ -1,0 +1,1185 @@
+{
+  "accounts": [
+    {
+      "address": "GBGQUOYOTPDMFBTYHONCPATI5PJYUVKOR4NJRUQNHN55FPARNKBH43S3BA",
+      "amount": 3999999999937000,
+      "amount-without-pending-rewards": 3999999999937000,
+      "apps-local-state": [
+        {
+          "id": 49,
+          "key-value": [
+            {
+              "key": "bG9jYWxfcG9pbnRz",
+              "value": {
+                "bytes": "",
+                "type": 2,
+                "uint": 0
+              }
+            },
+            {
+              "key": "dHJpZXNfcmVtYWluaW5n",
+              "value": {
+                "bytes": "",
+                "type": 2,
+                "uint": 10
+              }
+            }
+          ],
+          "schema": {
+            "num-byte-slice": 1,
+            "num-uint": 4
+          }
+        },
+        {
+          "id": 51,
+          "key-value": [
+            {
+              "key": "bG9jYWxfcG9pbnRz",
+              "value": {
+                "bytes": "",
+                "type": 2,
+                "uint": 0
+              }
+            },
+            {
+              "key": "dHJpZXNfcmVtYWluaW5n",
+              "value": {
+                "bytes": "",
+                "type": 2,
+                "uint": 10
+              }
+            }
+          ],
+          "schema": {
+            "num-byte-slice": 1,
+            "num-uint": 4
+          }
+        },
+        {
+          "id": 54,
+          "key-value": [
+            {
+              "key": "bG9jYWxfcG9pbnRz",
+              "value": {
+                "bytes": "",
+                "type": 2,
+                "uint": 0
+              }
+            },
+            {
+              "key": "bWFy",
+              "value": {
+                "bytes": "",
+                "type": 2,
+                "uint": 1
+              }
+            },
+            {
+              "key": "dHJpZXNfcmVtYWluaW5n",
+              "value": {
+                "bytes": "",
+                "type": 2,
+                "uint": 10
+              }
+            }
+          ],
+          "schema": {
+            "num-byte-slice": 1,
+            "num-uint": 4
+          }
+        },
+        {
+          "id": 60,
+          "key-value": [
+            {
+              "key": "bmFtZQ==",
+              "value": {
+                "bytes": "",
+                "type": 1,
+                "uint": 0
+              }
+            },
+            {
+              "key": "cG9pbnRz",
+              "value": {
+                "bytes": "",
+                "type": 2,
+                "uint": 0
+              }
+            },
+            {
+              "key": "dHJpZXNfcmVtYWluaW5n",
+              "value": {
+                "bytes": "",
+                "type": 2,
+                "uint": 10
+              }
+            }
+          ],
+          "schema": {
+            "num-byte-slice": 1,
+            "num-uint": 4
+          }
+        },
+        {
+          "id": 63,
+          "key-value": [
+            {
+              "key": "cG9pbnRz",
+              "value": {
+                "bytes": "",
+                "type": 2,
+                "uint": 0
+              }
+            },
+            {
+              "key": "dHJpZXNfcmVtYWluaW5n",
+              "value": {
+                "bytes": "",
+                "type": 2,
+                "uint": 10
+              }
+            }
+          ],
+          "schema": {
+            "num-byte-slice": 1,
+            "num-uint": 4
+          }
+        },
+        {
+          "id": 65,
+          "key-value": [
+            {
+              "key": "cG9pbnRz",
+              "value": {
+                "bytes": "",
+                "type": 2,
+                "uint": 0
+              }
+            },
+            {
+              "key": "dHJpZXNfcmVtYWluaW5n",
+              "value": {
+                "bytes": "",
+                "type": 2,
+                "uint": 10
+              }
+            }
+          ],
+          "schema": {
+            "num-byte-slice": 1,
+            "num-uint": 4
+          }
+        }
+      ],
+      "apps-total-schema": {
+        "num-byte-slice": 29,
+        "num-uint": 78
+      },
+      "created-apps": [
+        {
+          "id": 1,
+          "params": {
+            "approval-program": "CCACAAExGCISQAAxMRmBBRJAACcxGYEEEkAAHTEZIxJAABQxGYECEkAACjEZIhJAAAEAIkMiQyJDIkMiQ4AGcGxheWVyMQBngAZwb2ludHMiZyND",
+            "clear-state-program": "CIEBQw==",
+            "creator": "GBGQUOYOTPDMFBTYHONCPATI5PJYUVKOR4NJRUQNHN55FPARNKBH43S3BA",
+            "global-state": [
+              {
+                "key": "cGxheWVy",
+                "value": {
+                  "bytes": "ME0KOw6bxsKGeDuaJ4Jo69OKVU6PGpjSDTt70rwRaoI=",
+                  "type": 1,
+                  "uint": 0
+                }
+              },
+              {
+                "key": "cG9pbnRz",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 0
+                }
+              }
+            ],
+            "global-state-schema": {
+              "num-byte-slice": 1,
+              "num-uint": 1
+            }
+          }
+        },
+        {
+          "id": 2,
+          "params": {
+            "approval-program": "CCACAAExGCISQAAxMRmBBRJAACcxGYEEEkAAHTEZIxJAABQxGYECEkAACjEZIhJAAAEAIkMiQyJDIkMiQ4AGcGxheWVygANNYXJngAZwb2ludHMiZyND",
+            "clear-state-program": "CIEBQw==",
+            "creator": "GBGQUOYOTPDMFBTYHONCPATI5PJYUVKOR4NJRUQNHN55FPARNKBH43S3BA",
+            "global-state": [
+              {
+                "key": "cGxheWVy",
+                "value": {
+                  "bytes": "TWFy",
+                  "type": 1,
+                  "uint": 0
+                }
+              },
+              {
+                "key": "cG9pbnRz",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 0
+                }
+              }
+            ],
+            "global-state-schema": {
+              "num-byte-slice": 1,
+              "num-uint": 1
+            }
+          }
+        },
+        {
+          "id": 3,
+          "params": {
+            "approval-program": "CCACAAExGCISQAAxMRmBBRJAACcxGYEEEkAAHTEZIxJAABQxGYECEkAACjEZIhJAAAEAIkMiQyJDIkMiQ4AGcGxheWVygANNYXJngAZwb2ludHOBDGeAD3RyaWVzX3JlbWFpbmluZ4EIZyND",
+            "clear-state-program": "CIEBQw==",
+            "creator": "GBGQUOYOTPDMFBTYHONCPATI5PJYUVKOR4NJRUQNHN55FPARNKBH43S3BA",
+            "global-state": [
+              {
+                "key": "cGxheWVy",
+                "value": {
+                  "bytes": "TWFy",
+                  "type": 1,
+                  "uint": 0
+                }
+              },
+              {
+                "key": "cG9pbnRz",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 12
+                }
+              },
+              {
+                "key": "dHJpZXNfcmVtYWluaW5n",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 8
+                }
+              }
+            ],
+            "global-state-schema": {
+              "num-byte-slice": 1,
+              "num-uint": 2
+            }
+          }
+        },
+        {
+          "id": 4,
+          "params": {
+            "approval-program": "BSACAAExGCISQABQMRmBBRJAAEYxGYEEEkAAPDEZIxJAADMxGYECEkAAKTEZIhJAAAEANhoAgAVndWVzcxJAAAEAgAxnbG9iYWxfZ3Vlc3MiZyNDIkMiQyJDIkOABnBsYXllcoADTWFyZ4AGcG9pbnRzgQxngA90cmllc19yZW1haW5pbmeBCGcjQw==",
+            "clear-state-program": "BYEBQw==",
+            "creator": "GBGQUOYOTPDMFBTYHONCPATI5PJYUVKOR4NJRUQNHN55FPARNKBH43S3BA",
+            "global-state": [
+              {
+                "key": "cG9pbnRz",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 12
+                }
+              },
+              {
+                "key": "cGxheWVy",
+                "value": {
+                  "bytes": "TWFy",
+                  "type": 1,
+                  "uint": 0
+                }
+              },
+              {
+                "key": "dHJpZXNfcmVtYWluaW5n",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 8
+                }
+              }
+            ],
+            "global-state-schema": {
+              "num-byte-slice": 1,
+              "num-uint": 2
+            }
+          }
+        },
+        {
+          "id": 5,
+          "params": {
+            "approval-program": "BSACAAExGCISQABQMRmBBRJAAEYxGYEEEkAAPDEZIxJAADMxGYECEkAAKTEZIhJAAAEANhoAgAVndWVzcxJAAAEAgAxnbG9iYWxfZ3Vlc3MiZyNDIkMiQyJDIkOABnBsYXllcoADTWFyZ4AGcG9pbnRzgQxngA90cmllc19yZW1haW5pbmeBCGcjQw==",
+            "clear-state-program": "BYEBQw==",
+            "creator": "GBGQUOYOTPDMFBTYHONCPATI5PJYUVKOR4NJRUQNHN55FPARNKBH43S3BA",
+            "global-state": [
+              {
+                "key": "Z2xvYmFsX2d1ZXNz",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 0
+                }
+              },
+              {
+                "key": "cGxheWVy",
+                "value": {
+                  "bytes": "TWFy",
+                  "type": 1,
+                  "uint": 0
+                }
+              },
+              {
+                "key": "cG9pbnRz",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 12
+                }
+              },
+              {
+                "key": "dHJpZXNfcmVtYWluaW5n",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 8
+                }
+              }
+            ],
+            "global-state-schema": {
+              "num-byte-slice": 1,
+              "num-uint": 3
+            }
+          }
+        },
+        {
+          "id": 12,
+          "params": {
+            "approval-program": "CCACAAEmAQxnbG9iYWxfZ3Vlc3MxGCISQABDMRmBBRJAADkxGYEEEkAALzEZIxJAACYxGYECEkAAHDEZIhJAAAEANhoAgAVndWVzcxJAAAEAKCJnI0MiQyJDIkMiQ4AGcGxheWVygANNYXJngAZwb2ludHOBDGcoKGRngA90cmllc19yZW1haW5pbmeBCGcjQw==",
+            "clear-state-program": "CIEBQw==",
+            "creator": "GBGQUOYOTPDMFBTYHONCPATI5PJYUVKOR4NJRUQNHN55FPARNKBH43S3BA",
+            "global-state": [
+              {
+                "key": "Z2xvYmFsX2d1ZXNz",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 0
+                }
+              },
+              {
+                "key": "dHJpZXNfcmVtYWluaW5n",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 8
+                }
+              },
+              {
+                "key": "cGxheWVy",
+                "value": {
+                  "bytes": "TWFy",
+                  "type": 1,
+                  "uint": 0
+                }
+              },
+              {
+                "key": "cG9pbnRz",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 12
+                }
+              }
+            ],
+            "global-state-schema": {
+              "num-byte-slice": 1,
+              "num-uint": 3
+            }
+          }
+        },
+        {
+          "id": 14,
+          "params": {
+            "approval-program": "BSACAAExGCISQABQMRmBBRJAAEYxGYEEEkAAPDEZIxJAADMxGYECEkAAKTEZIhJAAAEANhoAgAVndWVzcxJAAAEAgAxndWVzc19udW1iZXIiZyNDIkMiQyJDIkOABnBsYXllcoADTWFyZ4AGcG9pbnRzgQxngAVzdG9yZSJngA90cmllc19yZW1haW5pbmeBCGcjQw==",
+            "clear-state-program": "BYEBQw==",
+            "creator": "GBGQUOYOTPDMFBTYHONCPATI5PJYUVKOR4NJRUQNHN55FPARNKBH43S3BA",
+            "global-state": [
+              {
+                "key": "cGxheWVy",
+                "value": {
+                  "bytes": "TWFy",
+                  "type": 1,
+                  "uint": 0
+                }
+              },
+              {
+                "key": "cG9pbnRz",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 12
+                }
+              },
+              {
+                "key": "c3RvcmU=",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 0
+                }
+              },
+              {
+                "key": "dHJpZXNfcmVtYWluaW5n",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 8
+                }
+              }
+            ],
+            "global-state-schema": {
+              "num-byte-slice": 1,
+              "num-uint": 3
+            }
+          }
+        },
+        {
+          "id": 15,
+          "params": {
+            "approval-program": "BSACAAExGCISQABQMRmBBRJAAEYxGYEEEkAAPDEZIxJAADMxGYECEkAAKTEZIhJAAAEANhoAgAVndWVzcxJAAAEAgAxndWVzc19udW1iZXIiZyNDIkMiQyJDIkOABnBsYXllcoADTWFyZ4AGcG9pbnRzgQxngAVzdG9yZSJngA90cmllc19yZW1haW5pbmeBCGcjQw==",
+            "clear-state-program": "BYEBQw==",
+            "creator": "GBGQUOYOTPDMFBTYHONCPATI5PJYUVKOR4NJRUQNHN55FPARNKBH43S3BA",
+            "global-state": [
+              {
+                "key": "Z3Vlc3NfbnVtYmVy",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 0
+                }
+              },
+              {
+                "key": "cGxheWVy",
+                "value": {
+                  "bytes": "TWFy",
+                  "type": 1,
+                  "uint": 0
+                }
+              },
+              {
+                "key": "cG9pbnRz",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 12
+                }
+              },
+              {
+                "key": "c3RvcmU=",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 0
+                }
+              },
+              {
+                "key": "dHJpZXNfcmVtYWluaW5n",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 8
+                }
+              }
+            ],
+            "global-state-schema": {
+              "num-byte-slice": 1,
+              "num-uint": 4
+            }
+          }
+        },
+        {
+          "id": 18,
+          "params": {
+            "approval-program": "BSACAAEmAQZudW1iZXIxGCISQABDMRmBBRJAADkxGYEEEkAALzEZIxJAACYxGYECEkAAHDEZIhJAAAEANhoAgAVndWVzcxJAAAEAKCJnI0MiQyJDIkMiQ4AGcGxheWVygANNYXJngAZwb2ludHOBDGcoImeAD3RyaWVzX3JlbWFpbmluZ4EIZyND",
+            "clear-state-program": "BYEBQw==",
+            "creator": "GBGQUOYOTPDMFBTYHONCPATI5PJYUVKOR4NJRUQNHN55FPARNKBH43S3BA",
+            "global-state": [
+              {
+                "key": "cG9pbnRz",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 12
+                }
+              },
+              {
+                "key": "bnVtYmVy",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 0
+                }
+              },
+              {
+                "key": "dHJpZXNfcmVtYWluaW5n",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 8
+                }
+              },
+              {
+                "key": "cGxheWVy",
+                "value": {
+                  "bytes": "TWFy",
+                  "type": 1,
+                  "uint": 0
+                }
+              }
+            ],
+            "global-state-schema": {
+              "num-byte-slice": 1,
+              "num-uint": 3
+            }
+          }
+        },
+        {
+          "id": 21,
+          "params": {
+            "approval-program": "BSACAAEmAQVndWVzczEYIhJAAEQxGYEFEkAAOjEZgQQSQAAwMRkjEkAAJzEZgQISQAAdMRkiEkAAAQA2GgAoEkAAAQCABm51bWJlciJnI0MiQyJDIkMiQ4AGcGxheWVygANNYXJngAZwb2ludHOBDGcoImeAD3RyaWVzX3JlbWFpbmluZ4EIZyND",
+            "clear-state-program": "BYEBQw==",
+            "creator": "GBGQUOYOTPDMFBTYHONCPATI5PJYUVKOR4NJRUQNHN55FPARNKBH43S3BA",
+            "global-state": [
+              {
+                "key": "cG9pbnRz",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 12
+                }
+              },
+              {
+                "key": "Z3Vlc3M=",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 0
+                }
+              },
+              {
+                "key": "dHJpZXNfcmVtYWluaW5n",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 8
+                }
+              },
+              {
+                "key": "cGxheWVy",
+                "value": {
+                  "bytes": "TWFy",
+                  "type": 1,
+                  "uint": 0
+                }
+              }
+            ],
+            "global-state-schema": {
+              "num-byte-slice": 1,
+              "num-uint": 3
+            }
+          }
+        },
+        {
+          "id": 22,
+          "params": {
+            "approval-program": "BSACAAEmAQVndWVzczEYIhJAAEQxGYEFEkAAOjEZgQQSQAAwMRkjEkAAJzEZgQISQAAdMRkiEkAAAQA2GgAoEkAAAQCABm51bWJlciJnI0MiQyJDIkMiQ4AGcGxheWVygANNYXJngAZwb2ludHOBDGcoImeAD3RyaWVzX3JlbWFpbmluZ4EIZyND",
+            "clear-state-program": "BYEBQw==",
+            "creator": "GBGQUOYOTPDMFBTYHONCPATI5PJYUVKOR4NJRUQNHN55FPARNKBH43S3BA",
+            "global-state": [
+              {
+                "key": "Z3Vlc3M=",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 0
+                }
+              },
+              {
+                "key": "dHJpZXNfcmVtYWluaW5n",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 8
+                }
+              },
+              {
+                "key": "bnVtYmVy",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 0
+                }
+              },
+              {
+                "key": "cGxheWVy",
+                "value": {
+                  "bytes": "TWFy",
+                  "type": 1,
+                  "uint": 0
+                }
+              },
+              {
+                "key": "cG9pbnRz",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 12
+                }
+              }
+            ],
+            "global-state-schema": {
+              "num-byte-slice": 1,
+              "num-uint": 4
+            }
+          }
+        },
+        {
+          "id": 25,
+          "params": {
+            "approval-program": "BSACAAExGCISQABKMRmBBRJAAEAxGYEEEkAANjEZIxJAAC0xGYECEkAAIzEZIhJAAAEANhoAgAVndWVzcxJAAAEAgAZudW1iZXIiZyNDIkMiQyJDIkOABnBsYXllcoADTWFyZ4AGcG9pbnRzgQxngA90cmllc19yZW1haW5pbmeBCGcjQw==",
+            "clear-state-program": "BYEBQw==",
+            "creator": "GBGQUOYOTPDMFBTYHONCPATI5PJYUVKOR4NJRUQNHN55FPARNKBH43S3BA",
+            "global-state": [
+              {
+                "key": "cG9pbnRz",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 12
+                }
+              },
+              {
+                "key": "bnVtYmVy",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 0
+                }
+              },
+              {
+                "key": "dHJpZXNfcmVtYWluaW5n",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 8
+                }
+              },
+              {
+                "key": "cGxheWVy",
+                "value": {
+                  "bytes": "TWFy",
+                  "type": 1,
+                  "uint": 0
+                }
+              }
+            ],
+            "global-state-schema": {
+              "num-byte-slice": 1,
+              "num-uint": 3
+            }
+          }
+        },
+        {
+          "id": 28,
+          "params": {
+            "approval-program": "BSACAAEmAQ90cmllc19yZW1haW5pbmcxGCISQABeMRmBBRJAAFQxGYEEEkAASjEZIxJAAEExGYECEkAANzEZIhJAAAEANhoAgAVndWVzcxJAABU2GgCABXJlc2V0EkAAAQAogQpnI0OABm51bWJlciJnI0MiQyJDIkMiQ4AGcGxheWVygANNYXJngAZwb2ludHOBDGcogQhnI0M=",
+            "clear-state-program": "BYEBQw==",
+            "creator": "GBGQUOYOTPDMFBTYHONCPATI5PJYUVKOR4NJRUQNHN55FPARNKBH43S3BA",
+            "global-state": [
+              {
+                "key": "bnVtYmVy",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 0
+                }
+              },
+              {
+                "key": "dHJpZXNfcmVtYWluaW5n",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 10
+                }
+              },
+              {
+                "key": "cGxheWVy",
+                "value": {
+                  "bytes": "TWFy",
+                  "type": 1,
+                  "uint": 0
+                }
+              },
+              {
+                "key": "cG9pbnRz",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 12
+                }
+              }
+            ],
+            "global-state-schema": {
+              "num-byte-slice": 1,
+              "num-uint": 3
+            }
+          }
+        },
+        {
+          "id": 33,
+          "params": {
+            "approval-program": "BSACAAEmAQ90cmllc19yZW1haW5pbmcxGCISQABeMRmBBRJAAFQxGYEEEkAASjEZIxJAAEExGYECEkAANzEZIhJAAAEANhoAgAVndWVzcxJAABU2GgCABXJlc2V0EkAAAQAogQpnI0OABm51bWJlciJnI0MiQyJDIkMiQ4AGcGxheWVygANNYXJngAZwb2ludHOBDGcogQhnI0M=",
+            "clear-state-program": "BYEBQw==",
+            "creator": "GBGQUOYOTPDMFBTYHONCPATI5PJYUVKOR4NJRUQNHN55FPARNKBH43S3BA",
+            "global-state": [
+              {
+                "key": "bnVtYmVy",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 0
+                }
+              },
+              {
+                "key": "cGxheWVy",
+                "value": {
+                  "bytes": "TWFy",
+                  "type": 1,
+                  "uint": 0
+                }
+              },
+              {
+                "key": "cG9pbnRz",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 12
+                }
+              },
+              {
+                "key": "dHJpZXNfcmVtYWluaW5n",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 10
+                }
+              }
+            ],
+            "global-state-schema": {
+              "num-byte-slice": 1,
+              "num-uint": 3
+            }
+          }
+        },
+        {
+          "id": 37,
+          "params": {
+            "approval-program": "BSACAAEmAQ90cmllc19yZW1haW5pbmcxGCISQABnMRmBBRJAAF0xGYEEEkAAUzEZIxJAAEoxGYECEkAAQDEZIhJAAAEANhoAgAVndWVzcxJAABU2GgCABXJlc2V0EkAAAQAogQpnI0OABm51bWJlcoAHbXlndWVzc2RnI0MiQyJDIkMiQ4AGcGxheWVygANNYXJngAZwb2ludHOBDGcogQhnI0M=",
+            "clear-state-program": "BYEBQw==",
+            "creator": "GBGQUOYOTPDMFBTYHONCPATI5PJYUVKOR4NJRUQNHN55FPARNKBH43S3BA",
+            "global-state": [
+              {
+                "key": "bnVtYmVy",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 0
+                }
+              },
+              {
+                "key": "cGxheWVy",
+                "value": {
+                  "bytes": "TWFy",
+                  "type": 1,
+                  "uint": 0
+                }
+              },
+              {
+                "key": "cG9pbnRz",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 12
+                }
+              },
+              {
+                "key": "dHJpZXNfcmVtYWluaW5n",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 8
+                }
+              }
+            ],
+            "global-state-schema": {
+              "num-byte-slice": 1,
+              "num-uint": 3
+            }
+          }
+        },
+        {
+          "id": 41,
+          "params": {
+            "approval-program": "BSACAAEmAQ90cmllc19yZW1haW5pbmcxGCISQABgMRmBBRJAAFYxGYEEEkAATDEZIxJAAEMxGYECEkAAOTEZIhJAAAEANhoAgAVndWVzcxJAABU2GgCABXJlc2V0EkAAAQAogQpnI0OABm51bWJlciIWZGcjQyJDIkMiQyJDgAZwbGF5ZXKAA01hcmeABnBvaW50c4EMZyiBCGcjQw==",
+            "clear-state-program": "BYEBQw==",
+            "creator": "GBGQUOYOTPDMFBTYHONCPATI5PJYUVKOR4NJRUQNHN55FPARNKBH43S3BA",
+            "global-state": [
+              {
+                "key": "cGxheWVy",
+                "value": {
+                  "bytes": "TWFy",
+                  "type": 1,
+                  "uint": 0
+                }
+              },
+              {
+                "key": "cG9pbnRz",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 12
+                }
+              },
+              {
+                "key": "bnVtYmVy",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 0
+                }
+              },
+              {
+                "key": "dHJpZXNfcmVtYWluaW5n",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 8
+                }
+              }
+            ],
+            "global-state-schema": {
+              "num-byte-slice": 1,
+              "num-uint": 3
+            }
+          }
+        },
+        {
+          "id": 45,
+          "params": {
+            "approval-program": "BSACAAEmAQ90cmllc19yZW1haW5pbmcxGCISQABgMRmBBRJAAFYxGYEEEkAATDEZIxJAAEMxGYECEkAAOTEZIhJAAAEANhoAgAVndWVzcxJAABU2GgCABXJlc2V0EkAAAQAogQpnI0OABm51bWJlciIWZGcjQyJDIkMiQyJDgAZwbGF5ZXKAA01hcmeABnBvaW50c4EMZyiBCGcjQw==",
+            "clear-state-program": "BYEBQw==",
+            "creator": "GBGQUOYOTPDMFBTYHONCPATI5PJYUVKOR4NJRUQNHN55FPARNKBH43S3BA",
+            "global-state": [
+              {
+                "key": "bnVtYmVy",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 0
+                }
+              },
+              {
+                "key": "cGxheWVy",
+                "value": {
+                  "bytes": "TWFy",
+                  "type": 1,
+                  "uint": 0
+                }
+              },
+              {
+                "key": "cG9pbnRz",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 12
+                }
+              },
+              {
+                "key": "dHJpZXNfcmVtYWluaW5n",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 10
+                }
+              }
+            ],
+            "global-state-schema": {
+              "num-byte-slice": 1,
+              "num-uint": 3
+            }
+          }
+        },
+        {
+          "id": 49,
+          "params": {
+            "approval-program": "CCADAAEKJgQPdHJpZXNfcmVtYWluaW5nDGxvY2FsX3BvaW50cw1nbG9iYWxfcG9pbnRzC2xvY2FsX2d1ZXNzMRgiEkAAeTEZgQUSQABvMRmBBBJAAGUxGSMSQABUMRmBAhJAAEoxGSISQAABADYaAIAFZ3Vlc3MSQAAuNhoAgAtwbGF5ZXJfbmFtZRJAABQ2GgCABXJlc2V0EkAAAQCIALciQ4gAnUL/+IgAGEL/8iJDIikiZiIoJGYjQyJDIkMqImcjQ4oAADIEIxIxFiISEEQzACAyAxJEIiJhIihiIg0QRCIrYjUAIiliNQIqZDUEIoAGc2VjcmV0YjUDIihiNQEiKzYaAWY0ADQDEkAAJjQANAMMQAAUNAA0Aw1AAAIiQyIoNAEjCWZCABciKDQBIwlmQgANIik0AiMIZio0BCMIZ4mKAAAiImFEMQA2GgEjZjYaASNnI0OKAAAyBCMSMRYiEhBEMwAgMgMSRCIoJGYjQw==",
+            "clear-state-program": "CIEBQw==",
+            "creator": "GBGQUOYOTPDMFBTYHONCPATI5PJYUVKOR4NJRUQNHN55FPARNKBH43S3BA",
+            "global-state": [
+              {
+                "key": "Z2xvYmFsX3BvaW50cw==",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 0
+                }
+              }
+            ],
+            "global-state-schema": {
+              "num-byte-slice": 1,
+              "num-uint": 1
+            },
+            "local-state-schema": {
+              "num-byte-slice": 1,
+              "num-uint": 4
+            }
+          }
+        },
+        {
+          "id": 51,
+          "params": {
+            "approval-program": "BSACAAEmBA90cmllc19yZW1haW5pbmcMbG9jYWxfcG9pbnRzDWdsb2JhbF9wb2ludHMLbG9jYWxfZ3Vlc3MxGCISQAB4MRmBBRJAAG4xGYEEEkAAZDEZIxJAAFQxGYECEkAASjEZIhJAAAEANhoAgAVndWVzcxJAAC42GgCAC3BsYXllcl9uYW1lEkAAFDYaAIAFcmVzZXQSQAABAIgAsCJDiACZQv/4iAAXQv/yIkMiKSJmiACZI0MiQyJDKiJnI0MyBCMSMRYiEhBEMwAgMgMSRCIiYSIoYiINEEQiK2I1ACIpYjUCKmQ1BCKABnNlY3JldGI1AyIoYjUBIis2GgFmNAA0AxJAACY0ADQDDEAAFDQANAMNQAACIkMiKDQBIwlmQgAXIig0ASMJZkIADSIpNAIjCGYqNAQjCGeJIiJhRDEANhoBI2Y2GgEjZyNDMgQjEjEWIhIQRDMAIDIDEkQiKIEKZiND",
+            "clear-state-program": "BYEBQw==",
+            "creator": "GBGQUOYOTPDMFBTYHONCPATI5PJYUVKOR4NJRUQNHN55FPARNKBH43S3BA",
+            "global-state": [
+              {
+                "key": "Z2xvYmFsX3BvaW50cw==",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 0
+                }
+              }
+            ],
+            "global-state-schema": {
+              "num-byte-slice": 1,
+              "num-uint": 1
+            },
+            "local-state-schema": {
+              "num-byte-slice": 1,
+              "num-uint": 4
+            }
+          }
+        },
+        {
+          "id": 54,
+          "params": {
+            "approval-program": "BSACAAEmBA90cmllc19yZW1haW5pbmcMbG9jYWxfcG9pbnRzDWdsb2JhbF9wb2ludHMLbG9jYWxfZ3Vlc3MxGCISQAB4MRmBBRJAAG4xGYEEEkAAZDEZIxJAAFQxGYECEkAASjEZIhJAAAEANhoAgAVndWVzcxJAAC42GgCAC3BsYXllcl9uYW1lEkAAFDYaAIAFcmVzZXQSQAABAIgAsCJDiACZQv/4iAAXQv/yIkMiKSJmiACZI0MiQyJDKiJnI0MyBCMSMRYiEhBEMwAgMgMSRCIiYSIoYiINEEQiK2I1ACIpYjUCKmQ1BCKABnNlY3JldGI1AyIoYjUBIis2GgFmNAA0AxJAACY0ADQDDEAAFDQANAMNQAACIkMiKDQBIwlmQgAXIig0ASMJZkIADSIpNAIjCGYqNAQjCGeJIiJhRDEANhoBI2Y2GgEjZyNDMgQjEjEWIhIQRDMAIDIDEkQiKIEKZiND",
+            "clear-state-program": "BYEBQw==",
+            "creator": "GBGQUOYOTPDMFBTYHONCPATI5PJYUVKOR4NJRUQNHN55FPARNKBH43S3BA",
+            "global-state": [
+              {
+                "key": "Z2xvYmFsX3BvaW50cw==",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 0
+                }
+              },
+              {
+                "key": "bWFy",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 1
+                }
+              }
+            ],
+            "global-state-schema": {
+              "num-byte-slice": 1,
+              "num-uint": 2
+            },
+            "local-state-schema": {
+              "num-byte-slice": 1,
+              "num-uint": 4
+            }
+          }
+        },
+        {
+          "id": 60,
+          "params": {
+            "approval-program": "BSACAAEmBQZwb2ludHMPdHJpZXNfcmVtYWluaW5nC2xvY2FsX2d1ZXNzBG5hbWUAMRgiEkAAeDEZgQUSQABuMRmBBBJAAGQxGSMSQABUMRmBAhJAAEoxGSISQAABADYaAIAFZ3Vlc3MSQAAuNhoAgAtwbGF5ZXJfbmFtZRJAABQ2GgCABXJlc2V0EkAAAQCIAK4iQ4gAmUL/+IgAF0L/8iJDIigiZogAlyNDIkMiQygiZyNDMgQjEjEWIhIQRDMAIDIDEkQiImEiKWIiDRBEIipiNQAiKGI1AihkNQQigAZzZWNyZXRiNQMiKWI1ASIqNhoBZjQANAMSQAAmNAA0AwxAABQ0ADQDDUAAAiJDIik0ASMJZkIAFyIpNAEjCWZCAA0iKDQCIwhmKDQEIwhniSIiYUQxACsnBGYrJwRnI0MyBCMSMRYiEhBEMwAgMgMSRCIpgQpmI0M=",
+            "clear-state-program": "BYEBQw==",
+            "creator": "GBGQUOYOTPDMFBTYHONCPATI5PJYUVKOR4NJRUQNHN55FPARNKBH43S3BA",
+            "global-state": [
+              {
+                "key": "bmFtZQ==",
+                "value": {
+                  "bytes": "",
+                  "type": 1,
+                  "uint": 0
+                }
+              },
+              {
+                "key": "cG9pbnRz",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 0
+                }
+              }
+            ],
+            "global-state-schema": {
+              "num-byte-slice": 1,
+              "num-uint": 1
+            },
+            "local-state-schema": {
+              "num-byte-slice": 1,
+              "num-uint": 4
+            }
+          }
+        },
+        {
+          "id": 63,
+          "params": {
+            "approval-program": "BSACAAEmBAZwb2ludHMPdHJpZXNfcmVtYWluaW5nC2xvY2FsX2d1ZXNzBG5hbWUxGCISQAB4MRmBBRJAAG4xGYEEEkAAZDEZIxJAAFQxGYECEkAASjEZIhJAAAEANhoAgAVndWVzcxJAAC42GgCAC3BsYXllcl9uYW1lEkAAFDYaAIAFcmVzZXQSQAABAIgAsCJDiACZQv/4iAAXQv/yIkMiKCJmiACZI0MiQyJDKCJnI0MyBCMSMRYiEhBEMwAgMgMSRCIiYSIpYiINEEQiKmI1ACIoYjUCKGQ1BCKABnNlY3JldGI1AyIpYjUBIio2GgFmNAA0AxJAACY0ADQDDEAAFDQANAMNQAACIkMiKTQBIwlmQgAXIik0ASMJZkIADSIoNAIjCGYoNAQjCGeJIiJhRDEAKzYaAGYrNhoAZyNDMgQjEjEWIhIQRDMAIDIDEkQiKYEKZiND",
+            "clear-state-program": "BYEBQw==",
+            "creator": "GBGQUOYOTPDMFBTYHONCPATI5PJYUVKOR4NJRUQNHN55FPARNKBH43S3BA",
+            "global-state": [
+              {
+                "key": "cG9pbnRz",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 0
+                }
+              }
+            ],
+            "global-state-schema": {
+              "num-byte-slice": 1,
+              "num-uint": 1
+            },
+            "local-state-schema": {
+              "num-byte-slice": 1,
+              "num-uint": 4
+            }
+          }
+        },
+        {
+          "id": 65,
+          "params": {
+            "approval-program": "BSACAAEmBAZwb2ludHMPdHJpZXNfcmVtYWluaW5nC2xvY2FsX2d1ZXNzBG5hbWUxGCISQAB4MRmBBRJAAG4xGYEEEkAAZDEZIxJAAFQxGYECEkAASjEZIhJAAAEANhoAgAVndWVzcxJAAC42GgCAC3BsYXllcl9uYW1lEkAAFDYaAIAFcmVzZXQSQAABAIgAsCJDiACZQv/4iAAXQv/yIkMiKCJmiACZI0MiQyJDKCJnI0MyBCMSMRYiEhBEMwAgMgMSRCIiYSIpYiINEEQiKmI1ACIoYjUCKGQ1BCKABnNlY3JldGI1AyIpYjUBIio2GgFmNAA0AxJAACY0ADQDDEAAFDQANAMNQAACIkMiKTQBIwlmQgAXIik0ASMJZkIADSIoNAIjCGYoNAQjCGeJIiJhRDEAKzYaAGYrNhoAZyNDMgQjEjEWIhIQRDMAIDIDEkQiKYEKZiND",
+            "clear-state-program": "BYEBQw==",
+            "creator": "GBGQUOYOTPDMFBTYHONCPATI5PJYUVKOR4NJRUQNHN55FPARNKBH43S3BA",
+            "global-state": [
+              {
+                "key": "cG9pbnRz",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 0
+                }
+              }
+            ],
+            "global-state-schema": {
+              "num-byte-slice": 1,
+              "num-uint": 1
+            },
+            "local-state-schema": {
+              "num-byte-slice": 1,
+              "num-uint": 4
+            }
+          }
+        }
+      ],
+      "min-balance": 6673000,
+      "participation": {
+        "selection-participation-key": "UyiXwMJCA1pvrzwrZxxcVRLzrE9gCGCMDwJ0N0ZABwI=",
+        "state-proof-key": "GEBjhNm0yTcYjQ1HokOqc5JM2ocdAQF9mfGeEs5JPCaVxqmojD8i3+DANLS1EZjY609hLykd3g71LNYX9u28TA==",
+        "vote-first-valid": 0,
+        "vote-key-dilution": 10000,
+        "vote-last-valid": 30000,
+        "vote-participation-key": "FEPRGYx8bDOhaEXf9jAkZHXnjfeOsNaJobs/2rvryGg="
+      },
+      "pending-rewards": 0,
+      "rewards": 0,
+      "round": 66,
+      "status": "Online",
+      "total-apps-opted-in": 6,
+      "total-assets-opted-in": 0,
+      "total-created-apps": 23,
+      "total-created-assets": 0
+    },
+    {
+      "address": "TYJQN4AOBTOL6G6R6KDIQQOLGLXGGN7MWPM57GOOZ7SWC3QHTEJ6LYBCSA",
+      "amount": 0,
+      "amount-without-pending-rewards": 0,
+      "min-balance": 100000,
+      "pending-rewards": 0,
+      "rewards": 0,
+      "round": 66,
+      "status": "Offline",
+      "total-apps-opted-in": 0,
+      "total-assets-opted-in": 0,
+      "total-created-apps": 0,
+      "total-created-assets": 0
+    }
+  ],
+  "apps": [
+    {
+      "id": 65,
+      "params": {
+        "approval-program": "BSACAAEmBAZwb2ludHMPdHJpZXNfcmVtYWluaW5nC2xvY2FsX2d1ZXNzBG5hbWUxGCISQAB4MRmBBRJAAG4xGYEEEkAAZDEZIxJAAFQxGYECEkAASjEZIhJAAAEANhoAgAVndWVzcxJAAC42GgCAC3BsYXllcl9uYW1lEkAAFDYaAIAFcmVzZXQSQAABAIgAsCJDiACZQv/4iAAXQv/yIkMiKCJmiACZI0MiQyJDKCJnI0MyBCMSMRYiEhBEMwAgMgMSRCIiYSIpYiINEEQiKmI1ACIoYjUCKGQ1BCKABnNlY3JldGI1AyIpYjUBIio2GgFmNAA0AxJAACY0ADQDDEAAFDQANAMNQAACIkMiKTQBIwlmQgAXIik0ASMJZkIADSIoNAIjCGYoNAQjCGeJIiJhRDEAKzYaAGYrNhoAZyNDMgQjEjEWIhIQRDMAIDIDEkQiKYEKZiND",
+        "clear-state-program": "BYEBQw==",
+        "creator": "GBGQUOYOTPDMFBTYHONCPATI5PJYUVKOR4NJRUQNHN55FPARNKBH43S3BA",
+        "global-state": [
+          {
+            "key": "cG9pbnRz",
+            "value": {
+              "bytes": "",
+              "type": 2,
+              "uint": 0
+            }
+          }
+        ],
+        "global-state-schema": {
+          "num-byte-slice": 1,
+          "num-uint": 1
+        },
+        "local-state-schema": {
+          "num-byte-slice": 1,
+          "num-uint": 4
+        }
+      }
+    }
+  ],
+  "latest-timestamp": 1684977221,
+  "protocol-version": "https://github.com/algorandfoundation/specs/tree/44fa607d6051730f5264526bf3c108d51f0eadb6",
+  "round": 66,
+  "sources": null,
+  "txns": [
+    {
+  "txn": {
+    "apaa": [
+      "am9tYXI="
+    ],
+    "apid": 65,
+    "fee": 1000,
+    "fv": 67,
+    "gh": "Ak4od+fl2ohR56iJiZo/+T8MyMBdhZT4uhslzozM9jE=",
+    "lv": 1067,
+    "note": "SoyvcZYoSlU=",
+    "snd": "GBGQUOYOTPDMFBTYHONCPATI5PJYUVKOR4NJRUQNHN55FPARNKBH43S3BA",
+    "type": "appl"
+  }
+}
+  ]
+}
