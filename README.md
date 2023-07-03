@@ -54,19 +54,24 @@ failed to guess the random secret number and then the game will end.</li>
 </ul>
 
 
-
-
-
 ### join_and_play :
-In this Subroutine, it will count the number of players(global_players_count), how many times does a
-player play (play_count) and register the user that will enter the Number Guessing Game for the first
-time (regNumGame).
+<p>
+    In this Subroutine, it will count the number of players(global_players_count), how many times does a
+    player play (play_count) and register the user that will enter the Number Guessing Game for the first
+    time (regNumGame).
+</p>
+
+<p>
 Next time the player enters the game , the Subroutine will evaluate whether if the player had
 registered in the past or not, if regNumgame is equal to 1 then only play_count will be incremented
 to 1 .
+</p>
+<p>
 If regNumgame is 0 ,it will proceed to the next condition where the global_players_count will be
 increased to one and also the play_count and set the regNumgame to 1 , Meaning the player has
 successfully joined the game and they can now play.
+</p>
+
 ADDITIONAL : The chances default value will be set to 5 as the player enters the game
 
 ### guess :
@@ -81,5 +86,4 @@ incremented to 1
 
 ### play_again :
 This Subroutine will set the number of chances(local_chances) back to 5 and isGuessOver will be
-set to 0 (Meaning you can now play the game again). Regardless if you guessed the number or not,
-this will help the player to go back to the game secret number and then the game will end .
+set to 0 (Meaning you can now play the game again).
