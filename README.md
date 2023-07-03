@@ -1,8 +1,10 @@
 # AlgoNum Guessing Game
 
 ## Description
-This smart contract was created for a Decentralized App - The AlgoNum Guessing Game.
-It has global and local states to store , check , and update data.Players will guess the random number within the given limited chances
+This simple smart contract was created for a Decentralized App - The AlgoNum Guessing Game.
+It has global and local states to store , check , and update data. The player will be guessing a random number with the given limited number of  chances.
+This smart contract demonstrates what I have learned on PyTeal course especially on counter-app and Subroutines.
+
 
 
 ## Global and Local State
@@ -46,8 +48,7 @@ failed to guess the random secret number and then the game will end.</li>
 </li>
 <li>
     Without regNumGame, the global_players_count will always be incremented or increasing
-    like local_play_count when a player(for example : Ben) enters the game for many times
-    Subroutines in Smart Contracts and their uses
+    like local_play_count when a player(for example : Ben) enters the game for many times.
 </li>
 
 
