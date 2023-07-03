@@ -53,7 +53,7 @@ failed to guess the random secret number and then the game will end.</li>
 
 </ul>
 
-
+## Subroutines in Smart Contracts and their uses
 ### join_and_play :
 <p>
     In this Subroutine, it will count the number of players(global_players_count), how many times does a
@@ -87,3 +87,26 @@ incremented to 1
 ### play_again :
 This Subroutine will set the number of chances(local_chances) back to 5 and isGuessOver will be
 set to 0 (Meaning you can now play the game again).
+
+
+
+
+### Application ID
+
+<p>252279791</p>
+https://testnet.algoexplorer.io/application/252279791 
+
+### Front-end
+ This is the repository of the front - end :<br>
+ https://github.com/ramdio12/number_guessing_game.git
+ 
+### Demo Website
+Here is the [link](https://algo-num-guessing-game.vercel.app/) to the website.
+
+### Smart Contact
+Here's the  to the dApp's smart contract.
+[link](https://github.com/ramdio12/Algonum_Smart_Contract.git)
+
+### Video Demonstration
+To see the video demonstration:<br>
+[link](https://drive.google.com/drive/folders/1YIQh065mkMfQ3LQDkXXJmKZg5eR7Nczw?usp=sharing)
